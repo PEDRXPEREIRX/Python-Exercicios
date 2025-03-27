@@ -1,0 +1,10 @@
+mensagem = input('Digite algo: ')
+
+print(f'O tipo primitivo desse valor é {type(mensagem)}')
+print(f'Só tem espaços? {mensagem.isspace()}')
+print(f'É um número? {mensagem.isnumeric()}')
+print(f'É alfabético? {mensagem.isalpha()}')
+print(f'É alfanumérico? {mensagem.isalnum()}')
+print(f'Está em maiúsculas? {mensagem.isupper()}')
+print(f'Está em minúsculas? {mensagem.islower()}')
+print(f'Está capitalizada? {mensagem.istitle()}')
