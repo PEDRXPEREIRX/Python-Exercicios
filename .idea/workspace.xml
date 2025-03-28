@@ -5,19 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5856487b-ca82-4eea-be0b-37cb313b66ba" name="Changes" comment="enviando para o repositório">
-      <change afterPath="$PROJECT_DIR$/ex005.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex006.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex007.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex008.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex009.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex010.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex011.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex012.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex013.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex014.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex015.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testes.py" beforeDir="false" afterPath="$PROJECT_DIR$/testes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex007.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex007.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex008.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex008.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex009.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex009.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex014.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex014.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex015.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex015.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +63,8 @@
     "Python.ex009.executor": "Run",
     "Python.ex010.executor": "Run",
     "Python.ex012.executor": "Run",
+    "Python.ex013.executor": "Run",
+    "Python.ex014.executor": "Run",
     "Python.testes.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
