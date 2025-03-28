@@ -1,10 +1,14 @@
-num1 = int(input('Número 1: '))
-num2 = int(input('Número 2: '))
-soma = num1 + num2
-mult = num1 * num2
-div = num1 / num2
-divint = num1 // num2
-exp = num1 ** num2
+from encodings.aliases import aliases
 
-print(f'A soma é {soma}, o produto é {mult} e a divisão é {div:.3f}!', end=' ')
-print(f'A divisão inteira é {divint} e a potência é {exp}!')
+import emoji
+
+print(emoji.emojize('Olá, Mundo! :globe_showing_Americas:', language=aliases))
+
+
+#import math
+# from math import sqrt, floor
+#
+# num = int(input('Digite um número: '))
+# raiz = sqrt(num)
+#
+# print(f'A raíz de {num} é {floor(raiz)}!')
