@@ -1,14 +1,37 @@
-from encodings.aliases import aliases
+frase = 'Curso em Vídeo Python'
 
-import emoji
+print(frase[:14])
+print(frase[15:])
+print(frase[9::2])
+print(len(frase))
+print(frase.count('o', 0, 13))
+print(frase.find('thon'))
+print(frase.find('Android'))
+print('Curso' in frase)
+print(frase.replace('Python', 'Android'))
+print(frase.upper())
+print(frase.lower())
+print(frase.capitalize())
+print(frase.title())
 
-print(emoji.emojize('Olá, Mundo! :globe_showing_Americas:', language=aliases))
+frase = '   Aprenda Python  '
+
+print(frase.strip())
+print(frase.rstrip())
+print(frase.lstrip())
+
+frase = 'Curso em Vídeo Python'
+print(frase.split())
+
+print(''.join(frase))
 
 
-#import math
-# from math import sqrt, floor
-#
-# num = int(input('Digite um número: '))
-# raiz = sqrt(num)
-#
-# print(f'A raíz de {num} é {floor(raiz)}!')
+print("""AAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAA""")
+
+print(frase.lower().find('vídeo'))
+
+dividido = frase.split()
+print(dividido[:3])
