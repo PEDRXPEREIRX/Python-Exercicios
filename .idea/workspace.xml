@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5856487b-ca82-4eea-be0b-37cb313b66ba" name="Changes" comment="realização ex 031, ex032 e ex033">
-      <change beforePath="$PROJECT_DIR$/ex034.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex034.py" afterDir="false" />
+    <list default="true" id="5856487b-ca82-4eea-be0b-37cb313b66ba" name="Changes" comment="realização ex034 e ex035">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex032.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex032.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,6 +81,7 @@
     "Python.ex032.executor": "Run",
     "Python.ex033.executor": "Run",
     "Python.ex034.executor": "Run",
+    "Python.ex035.executor": "Run",
     "Python.ex27.executor": "Run",
     "Python.testes.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -214,7 +216,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743469066351</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="realização ex034 e ex035">
+      <option name="closed" value="true" />
+      <created>1743469652373</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1743469652373</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -231,6 +241,7 @@
     <MESSAGE value="realização ex028 e criação arquivos até ex035" />
     <MESSAGE value="realização ex029 e ex030" />
     <MESSAGE value="realização ex 031, ex032 e ex033" />
-    <option name="LAST_COMMIT_MESSAGE" value="realização ex 031, ex032 e ex033" />
+    <MESSAGE value="realização ex034 e ex035" />
+    <option name="LAST_COMMIT_MESSAGE" value="realização ex034 e ex035" />
   </component>
 </project>
