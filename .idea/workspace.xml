@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5856487b-ca82-4eea-be0b-37cb313b66ba" name="Changes" comment="realizacao ex038 e ex039">
+    <list default="true" id="5856487b-ca82-4eea-be0b-37cb313b66ba" name="Changes" comment="alteracao resolucao ex039 e resolucao ex040 e ex041">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex039.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex039.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex040.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex040.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex042.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex042.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex043.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex043.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,6 +88,9 @@
     "Python.ex038.executor": "Run",
     "Python.ex039.executor": "Run",
     "Python.ex040.executor": "Run",
+    "Python.ex041.executor": "Run",
+    "Python.ex042.executor": "Run",
+    "Python.ex043.executor": "Run",
     "Python.ex27.executor": "Run",
     "Python.testes.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -270,7 +273,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743622116990</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="alteracao resolucao ex039 e resolucao ex040 e ex041">
+      <option name="closed" value="true" />
+      <created>1743623947708</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1743623947708</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -293,6 +304,7 @@
     <MESSAGE value="criacao arquivos dos exercicios (036 ao 045)" />
     <MESSAGE value="realizacao ex036 e ex037" />
     <MESSAGE value="realizacao ex038 e ex039" />
-    <option name="LAST_COMMIT_MESSAGE" value="realizacao ex038 e ex039" />
+    <MESSAGE value="alteracao resolucao ex039 e resolucao ex040 e ex041" />
+    <option name="LAST_COMMIT_MESSAGE" value="alteracao resolucao ex039 e resolucao ex040 e ex041" />
   </component>
 </project>
