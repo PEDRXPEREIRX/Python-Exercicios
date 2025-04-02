@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5856487b-ca82-4eea-be0b-37cb313b66ba" name="Changes" comment="criacao arquivos dos exercicios (036 ao 045)">
+    <list default="true" id="5856487b-ca82-4eea-be0b-37cb313b66ba" name="Changes" comment="realizacao ex036 e ex037">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex036.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex036.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex037.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex037.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex038.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex038.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex039.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex039.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,6 +85,7 @@
     "Python.ex035.executor": "Run",
     "Python.ex036.executor": "Run",
     "Python.ex037.executor": "Run",
+    "Python.ex038.executor": "Run",
     "Python.ex27.executor": "Run",
     "Python.testes.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -251,7 +252,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743616979350</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="realizacao ex036 e ex037">
+      <option name="closed" value="true" />
+      <created>1743619587920</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1743619587920</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -272,6 +281,7 @@
     <MESSAGE value="alteração ex032" />
     <MESSAGE value="condições aninhadas aula 012" />
     <MESSAGE value="criacao arquivos dos exercicios (036 ao 045)" />
-    <option name="LAST_COMMIT_MESSAGE" value="criacao arquivos dos exercicios (036 ao 045)" />
+    <MESSAGE value="realizacao ex036 e ex037" />
+    <option name="LAST_COMMIT_MESSAGE" value="realizacao ex036 e ex037" />
   </component>
 </project>
