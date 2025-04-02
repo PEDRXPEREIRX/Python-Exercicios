@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5856487b-ca82-4eea-be0b-37cb313b66ba" name="Changes" comment="realizacao ex036 e ex037">
+    <list default="true" id="5856487b-ca82-4eea-be0b-37cb313b66ba" name="Changes" comment="realizacao ex038 e ex039">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex038.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex038.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ex039.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex039.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex040.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex040.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,6 +86,8 @@
     "Python.ex036.executor": "Run",
     "Python.ex037.executor": "Run",
     "Python.ex038.executor": "Run",
+    "Python.ex039.executor": "Run",
+    "Python.ex040.executor": "Run",
     "Python.ex27.executor": "Run",
     "Python.testes.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -260,7 +262,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743619587920</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="realizacao ex038 e ex039">
+      <option name="closed" value="true" />
+      <created>1743622116990</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1743622116990</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -282,6 +292,7 @@
     <MESSAGE value="condições aninhadas aula 012" />
     <MESSAGE value="criacao arquivos dos exercicios (036 ao 045)" />
     <MESSAGE value="realizacao ex036 e ex037" />
-    <option name="LAST_COMMIT_MESSAGE" value="realizacao ex036 e ex037" />
+    <MESSAGE value="realizacao ex038 e ex039" />
+    <option name="LAST_COMMIT_MESSAGE" value="realizacao ex038 e ex039" />
   </component>
 </project>

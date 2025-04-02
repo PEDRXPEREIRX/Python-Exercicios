@@ -3,17 +3,24 @@
 #Seu programa também deverá mostrar o tempo que falta ou que passou do prazo.
 from datetime import datetime
 
-anoNascimento = int(input('Informe o ano do seu nascimento: ').strip())
-anoAtual = datetime.now().year
-idade = anoAtual - anoNascimento
+genero = input('Olá, você é do gênero feminino ou masculino? ').upper().strip()
 
-if idade > 18:
-    alistamento = input(f'Já serviu às Forças Armadas ou foi dispensado do período obrigatório? [SIM] ou [NAO] ').upper().strip()
-    if alistamento == 'SIM':
-        print(f'Excelente!!!')
-    elif alistamento == 'NAO':
-        print(f'ARREGO!!! Se apresente em uma junta militar o mais rápido!')
-elif idade < 18:
-    print(f'Dentro de {18 - idade} anos você tem que se alistar, guerreiro!')
+if genero == 'MASCULINO':
+    anoNascimento = int(input('Informe o ano do seu nascimento: ').strip())
+    anoAtual = datetime.now().year
+    idade = anoAtual - anoNascimento
+
+    if idade > 18:
+        alistamento = input(
+            f'Já serviu às Forças Armadas ou foi dispensado do período obrigatório? [SIM] ou [NAO] ').upper().strip()
+        if alistamento == 'SIM':
+            print(f'Excelente!!!')
+        elif alistamento == 'NAO':
+            print(f'ARREGO!!! {idade - 18} anos já se passaram do tempo que devia ter se apresentado!\n'
+                  f'Se apresente em uma junta militar o mais rápido!')
+    elif idade < 18:
+        print(f'Dentro de {18 - idade} anos você tem que se alistar, guerreiro!')
+    else:
+        print(f'É hora de se alistar, combatente!')
 else:
-    print(f'É hora de se alistar, combatente!')
+    print('Tenha um ótimo dia :)')
