@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5856487b-ca82-4eea-be0b-37cb313b66ba" name="Changes" comment="realizacao ex045">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="5856487b-ca82-4eea-be0b-37cb313b66ba" name="Changes" comment="algumas alteracoes ex045">
       <change beforePath="$PROJECT_DIR$/ex045.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex045.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -306,7 +305,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743685221521</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="algumas alteracoes ex045">
+      <option name="closed" value="true" />
+      <created>1743701515127</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1743701515127</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -333,6 +340,7 @@
     <MESSAGE value="realizacao ex042 e ex043" />
     <MESSAGE value="realizacao ex044" />
     <MESSAGE value="realizacao ex045" />
-    <option name="LAST_COMMIT_MESSAGE" value="realizacao ex045" />
+    <MESSAGE value="algumas alteracoes ex045" />
+    <option name="LAST_COMMIT_MESSAGE" value="algumas alteracoes ex045" />
   </component>
 </project>
