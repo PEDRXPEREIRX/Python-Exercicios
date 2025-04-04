@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5856487b-ca82-4eea-be0b-37cb313b66ba" name="Changes" comment="resolucao alguns exercicios">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testes.py" beforeDir="false" afterPath="$PROJECT_DIR$/testes.py" afterDir="false" />
-    </list>
+    <list default="true" id="5856487b-ca82-4eea-be0b-37cb313b66ba" name="Changes" comment="refazendo ex056 e modificando algumas coisas" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -341,11 +338,18 @@
       <option name="project" value="LOCAL" />
       <updated>1743725763365</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="refazendo ex056 e modificando algumas coisas">
+      <option name="closed" value="true" />
+      <created>1743795589290</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1743795589290</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="enviando para o repositório" />
     <MESSAGE value="resolução ex014 e ex015 e aprimorando alguns anteriores" />
     <MESSAGE value="resolução ex022" />
     <MESSAGE value="resolução ex023" />
@@ -370,6 +374,7 @@
     <MESSAGE value="algumas alteracoes ex045" />
     <MESSAGE value="ex045 completo + reestruturacao do codigo pelo chatgpt" />
     <MESSAGE value="resolucao alguns exercicios" />
-    <option name="LAST_COMMIT_MESSAGE" value="resolucao alguns exercicios" />
+    <MESSAGE value="refazendo ex056 e modificando algumas coisas" />
+    <option name="LAST_COMMIT_MESSAGE" value="refazendo ex056 e modificando algumas coisas" />
   </component>
 </project>

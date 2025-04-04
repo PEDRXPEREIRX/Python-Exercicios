@@ -1,7 +1,7 @@
 #Desenvolva um programa que leia o nome, idade e sexo de 4 pessoas. No final do programa, mostra:
 #A média de idade do grupo, qual é o nome do homem mais velho, quantas mulheres tem menos de 20 anos
 
-peoples = []
+people = []
 addAge = 0
 womanSub20 = 0
 olderMan = {"nome": "", "idade": 0}
@@ -13,8 +13,8 @@ for i in range (4):
 
     addAge += age
 
-    people = {"nome": name, "idade": age, "genero": gender}
-    peoples.append(people)
+    person = {"nome": name, "idade": age, "genero": gender}
+    people.append(person)
 
     if (gender == 'masc') and (age > olderMan["idade"]):
         olderMan["nome"] = name
@@ -23,10 +23,10 @@ for i in range (4):
     if gender == 'fem' and age < 20:
         womanSub20 += 1
 
-averageAge = addAge / len(peoples)
+averageAge = addAge / len(people)
 
 print(f'\nResultado da pesquisa:\n')
-print(f'Total de participantes: {len(peoples)}\n')
+print(f'Total de participantes: {len(people)}\n')
 print(f'Média de idade do grupo: {averageAge} anos.')
 
 if olderMan["nome"]:
