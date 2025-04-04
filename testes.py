@@ -1,6 +1,12 @@
 
 
-
+#aula013
+# soma = 0
+# for cont in range(0, 10):
+#     num = int(input('Digite um valor: '))
+#     soma += num
+#
+# print(f'A soma de todos números é {soma}!')
 
 #aula012
 #

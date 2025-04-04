@@ -4,8 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5856487b-ca82-4eea-be0b-37cb313b66ba" name="Changes" comment="algumas alteracoes ex045">
-      <change beforePath="$PROJECT_DIR$/ex045.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex045.py" afterDir="false" />
+    <list default="true" id="5856487b-ca82-4eea-be0b-37cb313b66ba" name="Changes" comment="ex045 completo + reestruturacao do codigo pelo chatgpt">
+      <change afterPath="$PROJECT_DIR$/ex046.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex047.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex048.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex049.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex050.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex051.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex052.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex053.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex054.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex055.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex056.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testes.py" beforeDir="false" afterPath="$PROJECT_DIR$/testes.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,6 +103,17 @@
     "Python.ex043.executor": "Run",
     "Python.ex044.executor": "Run",
     "Python.ex045.executor": "Run",
+    "Python.ex046.executor": "Run",
+    "Python.ex047.executor": "Run",
+    "Python.ex048.executor": "Run",
+    "Python.ex049.executor": "Run",
+    "Python.ex050.executor": "Run",
+    "Python.ex051.executor": "Run",
+    "Python.ex052.executor": "Run",
+    "Python.ex053.executor": "Run",
+    "Python.ex054.executor": "Run",
+    "Python.ex055.executor": "Run",
+    "Python.ex056.executor": "Run",
     "Python.ex27.executor": "Run",
     "Python.testes.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -313,7 +336,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743701515127</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="ex045 completo + reestruturacao do codigo pelo chatgpt">
+      <option name="closed" value="true" />
+      <created>1743702085583</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1743702085583</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -341,6 +372,7 @@
     <MESSAGE value="realizacao ex044" />
     <MESSAGE value="realizacao ex045" />
     <MESSAGE value="algumas alteracoes ex045" />
-    <option name="LAST_COMMIT_MESSAGE" value="algumas alteracoes ex045" />
+    <MESSAGE value="ex045 completo + reestruturacao do codigo pelo chatgpt" />
+    <option name="LAST_COMMIT_MESSAGE" value="ex045 completo + reestruturacao do codigo pelo chatgpt" />
   </component>
 </project>
