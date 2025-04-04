@@ -1,40 +1,40 @@
 #Desenvolva um programa que leia o nome, idade e sexo de 4 pessoas. No final do programa, mostra:
 #A média de idade do grupo, qual é o nome do homem mais velho, quantas mulheres tem menos de 20 anos
 
-pessoas = []
-somaIdade = 0
-mulheresSub20 = 0
-homemVelho = {"nome": "", "idade": 0}
+peoples = []
+addAge = 0
+womanSub20 = 0
+olderMan = {"nome": "", "idade": 0}
 
-for i in range(4):
-    print(f'Pessoa {i+1}:')
-    nome = input('Nome: ').strip()
-    idade = int(input('Idade: '))
-    sexo = input('Sexo: [MASC ou FEM] ').strip().lower()
+for i in range (4):
+    name = input(f'\nIndivíduo número {i+1}, informe seu nome: ').strip()
+    age = int(input('Agora informe a sua idade: '))
+    gender = input('Por último, seu gênero: [MASC] ou [FEM] ').lower().strip()
 
-    pessoa = {"nome": nome, "idade": idade, "sexo": sexo}
-    pessoas.append(pessoa)
+    addAge += age
 
-    somaIdade += idade
+    people = {"nome": name, "idade": age, "genero": gender}
+    peoples.append(people)
 
-    if sexo == "masc" and idade > homemVelho["idade"]:
-        homemVelho["nome"] = nome
-        homemVelho["idade"] = idade
+    if (gender == 'masc') and (age > olderMan["idade"]):
+        olderMan["nome"] = name
+        olderMan["idade"] = age
 
-    if sexo == "fem" and idade < 20:
-        mulheresSub20 += 1
+    if gender == 'fem' and age < 20:
+        womanSub20 += 1
 
-mediaIdade = somaIdade / 4
+averageAge = addAge / len(peoples)
 
-print(f'Resultados da pesquisa:\n'
-      f'\nA média de idade do grupo é {mediaIdade:.1f} anos.')
+print(f'\nResultado da pesquisa:\n')
+print(f'Total de participantes: {len(peoples)}\n')
+print(f'Média de idade do grupo: {averageAge} anos.')
 
-if homemVelho:
-    print(f'O homem mais velho se chama {homemVelho["nome"]} com {homemVelho["idade"]} anos.')
+if olderMan["nome"]:
+    print(f'O homem mais velho do grupo se chama {olderMan["nome"]}.')
 else:
-    print('Não há homens no grupo.')
+    print('Não há nenhum homem no grupo.')
 
-if mulheresSub20:
-    print(f'Há {mulheresSub20} mulheres com menos de 20 anos no grupo.')
+if womanSub20:
+    print(f'Total de mulheres com menos de 20 anos: {womanSub20}.')
 else:
     print('Não há mulheres com menos de 20 anos no grupo.')
