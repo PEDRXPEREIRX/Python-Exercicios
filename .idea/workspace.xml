@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5856487b-ca82-4eea-be0b-37cb313b66ba" name="Changes" comment="refazendo ex056 e modificando algumas coisas" />
+    <list default="true" id="5856487b-ca82-4eea-be0b-37cb313b66ba" name="Changes" comment="modifiquei nome variavel">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex047.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex047.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex051.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex051.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex052.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex052.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex053.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex053.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex054.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex054.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -346,11 +353,18 @@
       <option name="project" value="LOCAL" />
       <updated>1743795589290</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="modifiquei nome variavel">
+      <option name="closed" value="true" />
+      <created>1743797131586</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1743797131586</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="resolução ex014 e ex015 e aprimorando alguns anteriores" />
     <MESSAGE value="resolução ex022" />
     <MESSAGE value="resolução ex023" />
     <MESSAGE value="resolução ex024" />
@@ -375,6 +389,7 @@
     <MESSAGE value="ex045 completo + reestruturacao do codigo pelo chatgpt" />
     <MESSAGE value="resolucao alguns exercicios" />
     <MESSAGE value="refazendo ex056 e modificando algumas coisas" />
-    <option name="LAST_COMMIT_MESSAGE" value="refazendo ex056 e modificando algumas coisas" />
+    <MESSAGE value="modifiquei nome variavel" />
+    <option name="LAST_COMMIT_MESSAGE" value="modifiquei nome variavel" />
   </component>
 </project>

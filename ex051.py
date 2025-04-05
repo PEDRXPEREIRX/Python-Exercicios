@@ -3,9 +3,9 @@
 
 primeiroTermo = int(input('Digite o primeiro termo: '))
 razao = int(input('Digite a razão: '))
-progressao = primeiroTermo + 10 * razao
+decimo = primeiroTermo + (10 - 1) * razao
 
-for i in range(primeiroTermo, progressao, razao):
+for i in range(primeiroTermo, decimo + razao, razao):
     print(i)
 
 
