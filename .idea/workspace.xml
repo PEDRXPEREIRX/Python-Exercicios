@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5856487b-ca82-4eea-be0b-37cb313b66ba" name="Changes" comment="correcao alguns exercicis">
-      <change afterPath="$PROJECT_DIR$/ex057.py" afterDir="false" />
+    <list default="true" id="5856487b-ca82-4eea-be0b-37cb313b66ba" name="Changes" comment="aula014 e realizacao ex057">
+      <change afterPath="$PROJECT_DIR$/ex058.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testes.py" beforeDir="false" afterPath="$PROJECT_DIR$/testes.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,6 +104,7 @@
     "Python.ex055.executor": "Run",
     "Python.ex056.executor": "Run",
     "Python.ex057.executor": "Run",
+    "Python.ex058.executor": "Run",
     "Python.ex27.executor": "Run",
     "Python.testes.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -367,11 +367,18 @@
       <option name="project" value="LOCAL" />
       <updated>1743817410348</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="aula014 e realizacao ex057">
+      <option name="closed" value="true" />
+      <created>1744064540627</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1744064540627</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="resolução ex023" />
     <MESSAGE value="resolução ex024" />
     <MESSAGE value="resolução ex025" />
     <MESSAGE value="resolução ex026" />
@@ -396,6 +403,7 @@
     <MESSAGE value="refazendo ex056 e modificando algumas coisas" />
     <MESSAGE value="modifiquei nome variavel" />
     <MESSAGE value="correcao alguns exercicis" />
-    <option name="LAST_COMMIT_MESSAGE" value="correcao alguns exercicis" />
+    <MESSAGE value="aula014 e realizacao ex057" />
+    <option name="LAST_COMMIT_MESSAGE" value="aula014 e realizacao ex057" />
   </component>
 </project>
