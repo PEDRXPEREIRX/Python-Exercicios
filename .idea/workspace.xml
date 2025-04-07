@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5856487b-ca82-4eea-be0b-37cb313b66ba" name="Changes" comment="modifiquei nome variavel">
+    <list default="true" id="5856487b-ca82-4eea-be0b-37cb313b66ba" name="Changes" comment="correcao alguns exercicis">
+      <change afterPath="$PROJECT_DIR$/ex057.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex047.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex047.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex051.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex051.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex052.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex052.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex053.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex053.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex054.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex054.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testes.py" beforeDir="false" afterPath="$PROJECT_DIR$/testes.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,72 +47,73 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.ex001.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex002.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex003.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex004.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex005.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex006.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex007.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex008.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex009.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex010.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex012.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex013.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex014.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex015.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex016.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex017.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex018.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex019.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex020.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex021.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex022.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex023.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex024.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex025.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex026.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex027.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex028.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex029.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex030.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex031.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex032.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex033.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex034.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex035.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex036.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex037.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex038.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex039.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex040.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex041.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex042.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex043.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex044.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex045.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex046.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex047.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex048.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex049.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex050.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex051.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex052.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex053.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex054.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex055.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex056.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex27.executor&quot;: &quot;Run&quot;,
-    &quot;Python.testes.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/pedro/PycharmProjects/PythonExercicios&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.ex001.executor": "Run",
+    "Python.ex002.executor": "Run",
+    "Python.ex003.executor": "Run",
+    "Python.ex004.executor": "Run",
+    "Python.ex005.executor": "Run",
+    "Python.ex006.executor": "Run",
+    "Python.ex007.executor": "Run",
+    "Python.ex008.executor": "Run",
+    "Python.ex009.executor": "Run",
+    "Python.ex010.executor": "Run",
+    "Python.ex012.executor": "Run",
+    "Python.ex013.executor": "Run",
+    "Python.ex014.executor": "Run",
+    "Python.ex015.executor": "Run",
+    "Python.ex016.executor": "Run",
+    "Python.ex017.executor": "Run",
+    "Python.ex018.executor": "Run",
+    "Python.ex019.executor": "Run",
+    "Python.ex020.executor": "Run",
+    "Python.ex021.executor": "Run",
+    "Python.ex022.executor": "Run",
+    "Python.ex023.executor": "Run",
+    "Python.ex024.executor": "Run",
+    "Python.ex025.executor": "Run",
+    "Python.ex026.executor": "Run",
+    "Python.ex027.executor": "Run",
+    "Python.ex028.executor": "Run",
+    "Python.ex029.executor": "Run",
+    "Python.ex030.executor": "Run",
+    "Python.ex031.executor": "Run",
+    "Python.ex032.executor": "Run",
+    "Python.ex033.executor": "Run",
+    "Python.ex034.executor": "Run",
+    "Python.ex035.executor": "Run",
+    "Python.ex036.executor": "Run",
+    "Python.ex037.executor": "Run",
+    "Python.ex038.executor": "Run",
+    "Python.ex039.executor": "Run",
+    "Python.ex040.executor": "Run",
+    "Python.ex041.executor": "Run",
+    "Python.ex042.executor": "Run",
+    "Python.ex043.executor": "Run",
+    "Python.ex044.executor": "Run",
+    "Python.ex045.executor": "Run",
+    "Python.ex046.executor": "Run",
+    "Python.ex047.executor": "Run",
+    "Python.ex048.executor": "Run",
+    "Python.ex049.executor": "Run",
+    "Python.ex050.executor": "Run",
+    "Python.ex051.executor": "Run",
+    "Python.ex052.executor": "Run",
+    "Python.ex053.executor": "Run",
+    "Python.ex054.executor": "Run",
+    "Python.ex055.executor": "Run",
+    "Python.ex056.executor": "Run",
+    "Python.ex057.executor": "Run",
+    "Python.ex27.executor": "Run",
+    "Python.testes.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/pedro/PycharmProjects/PythonExercicios",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\pedro\PycharmProjects\PythonExercicios" />
@@ -361,11 +359,18 @@
       <option name="project" value="LOCAL" />
       <updated>1743797131586</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="correcao alguns exercicis">
+      <option name="closed" value="true" />
+      <created>1743817410348</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1743817410348</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="resolução ex022" />
     <MESSAGE value="resolução ex023" />
     <MESSAGE value="resolução ex024" />
     <MESSAGE value="resolução ex025" />
@@ -390,6 +395,7 @@
     <MESSAGE value="resolucao alguns exercicios" />
     <MESSAGE value="refazendo ex056 e modificando algumas coisas" />
     <MESSAGE value="modifiquei nome variavel" />
-    <option name="LAST_COMMIT_MESSAGE" value="modifiquei nome variavel" />
+    <MESSAGE value="correcao alguns exercicis" />
+    <option name="LAST_COMMIT_MESSAGE" value="correcao alguns exercicis" />
   </component>
 </project>

@@ -1,6 +1,27 @@
 
 
 
+#aula014
+# resp = "SIM"
+# par = 0
+# impar = 0
+#
+# while resp != "NAO":
+#     num = int(input('Informe um número: '))
+#     if num % 2 == 0:
+#         par += 1
+#     else:
+#         impar += 1
+#     resp = input('Deseja continuar? [SIM / NAO] ').upper().strip()
+#
+# if par == 0 and impar == 0:
+#     print('Não foi informado nenhum número :(')
+# else:
+#     print(f'Total de números pares digitados: {par}.\n'
+#           f'Total de números ímpares digitados: {impar}.')
+
+
+
 #aula013
 # soma = 0
 # for cont in range(0, 10):
