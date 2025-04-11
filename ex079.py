@@ -5,6 +5,7 @@ valores = []
 for i in range(10):
     valor = int(input('Digite um valor: '))
     if valor in valores:
+        print('Valor já digitado!', end=' ')
         continue
     valores.append(valor)
 
