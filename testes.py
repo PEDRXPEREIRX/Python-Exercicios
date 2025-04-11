@@ -1,3 +1,48 @@
+#aula017
+# valores = [8,4,9,3,6,2,1,7,8]
+# print(*valores)
+# valores.sort()
+# print(*valores)
+# valores.sort(reverse=True)
+# print(*valores)
+#
+# num = [2, 5, 9, 1]
+# num[2] = 3
+# num.append(7)
+# num.sort(reverse=True)
+# num.insert(2, 2)
+# if 4 in num:
+#     num.remove(2)
+# print(num)
+#
+# valores = []
+# valores.append(5)
+# valores.append(9)
+# valores.append(4)
+#
+# for cont, valor in enumerate(valores):
+#     print(f'{valor} na posição {cont}')
+#
+# valores = []
+#
+# for cont in range(5):
+#     valores.append(int(input('Digite um valor: ')))
+#
+# print(valores)
+#
+# a = [1,2,3,4]
+# b = a
+# b[2] = 8
+# print(f'Lista A: {a}')
+# print(f'Lista B: {b}')
+#
+# a = [1,2,3,4]
+# b = a[:]
+# b[2] = 8
+# print(f'Lista A: {a}')
+# print(f'Lista B: {b}')
+
+
 
 #aula016
 # pessoa = ('Pedro', 22, 'M', 90)
@@ -43,6 +88,7 @@
 
 
 
+
 #aula013
 # soma = 0
 # for cont in range(0, 10):
@@ -50,6 +96,9 @@
 #     soma += num
 #
 # print(f'A soma de todos números é {soma}!')
+
+
+
 
 #aula012
 #
