@@ -1,4 +1,25 @@
 
+#aula016
+# pessoa = ('Pedro', 22, 'M', 90)
+# del(pessoa)
+# print(pessoa)
+
+# numeros = (5, 1, 9, 24, 58, 3, 0)
+# numerosOrdem = sorted(numeros)
+# print(numeros)
+# print(numerosOrdem)
+
+# lanches = ('maçã', 'banana', 'sanduiche', 'suco')
+#
+# for pos, comida in enumerate(lanches):
+#     print(f'Eu vou comer {comida} na posição {pos+1}')
+
+# for comida in lanches:
+#     print(f'Eu vou comer {comida}')
+
+# for comida in range(0, len(lanches)):
+#     print(f'Eu vou comer {lanches[comida]}')
+
 
 
 #aula014
