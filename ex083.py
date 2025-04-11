@@ -1,6 +1,17 @@
+expr = input('Digite a expressão: ')
+pilha = []
 
-expressao = input('Digite a expressão: ')
-if expressao.count('(') == expressao.count(')'):
+for simb in expr:
+    if simb == '(':
+        pilha.append('(')
+    elif simb == ')':
+        if len(pilha) > 0:
+            pilha.pop()
+        else:
+            pilha.append(1)
+            break
+
+if len(pilha) == 0:
     print('Sua expressão está válida!')
 else:
-    print('Sua expressão está errada!')
+    print('Sua expressão está incorreta!')
