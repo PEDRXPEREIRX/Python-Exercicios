@@ -1,3 +1,43 @@
+#aula018
+#
+# teste = []
+# teste.append('Pedro')
+# teste.append(22)
+# galera = []
+# galera.append(teste[:])
+# teste[0] = 'Luno'
+# teste[1] = '5'
+# galera.append(teste[:])
+# print(galera)
+#
+# galera =[['Pedro', 22], ['Adriana', 25], ['Mel', 2], ['Lucca', 1]]
+# for i in galera:
+#     print(f'{i[0]} tem {i[1]} anos de idade.')
+#
+# galera = []
+# dados = []
+# totMai = totMen = 0
+#
+# for i in range(3):
+#     dados.append(input('Informe seu nome: '))
+#     dados.append(int(input('Informe sua idade: ')))
+#     galera.append(dados[:])
+#     dados.clear()
+#
+# for i in galera:
+#     if i[1] >= 21:
+#         print(f'{i[0]} é maior de idade.')
+#         totMai += 1
+#     else:
+#         print(f'{i[0]} é menor de idade.')
+#         totMen += 1
+#
+# print(f'Temos {totMai} pessoas maiores de idade.\n'
+#       f'Temos {totMen} pessoas menores de idade.')
+
+
+
+
 #aula017
 # valores = [8,4,9,3,6,2,1,7,8]
 # print(*valores)
