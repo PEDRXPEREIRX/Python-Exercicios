@@ -70,7 +70,6 @@ else:
 #         break
 #
 # print()
-# print(f'Ao todo, foram {len(pessoas)} cadastradas.')
 # print(f'O maior peso foi de {maiorKg:.1f}Kg.', end=' ')
 # for i in pessoas:
 #     if i[1] == maiorKg:

@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5856487b-ca82-4eea-be0b-37cb313b66ba" name="Changes" comment="realização ex084">
+    <list default="true" id="5856487b-ca82-4eea-be0b-37cb313b66ba" name="Changes" comment="adição resolução guanabara ex084">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testes.py" beforeDir="false" afterPath="$PROJECT_DIR$/testes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex084.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex084.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex085.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex085.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex086.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex086.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,6 +134,8 @@
     "Python.ex082.executor": "Run",
     "Python.ex083.executor": "Run",
     "Python.ex084.executor": "Run",
+    "Python.ex085.executor": "Run",
+    "Python.ex086.executor": "Run",
     "Python.ex27.executor": "Run",
     "Python.testes.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -161,14 +165,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743033053711</updated>
-    </task>
-    <task id="LOCAL-00001" summary="Primeiro commit">
-      <option name="closed" value="true" />
-      <created>1743034058958</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1743034058958</updated>
     </task>
     <task id="LOCAL-00002" summary="enviando para o repositório">
       <option name="closed" value="true" />
@@ -554,11 +550,18 @@
       <option name="project" value="LOCAL" />
       <updated>1744748345362</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="adição resolução guanabara ex084">
+      <option name="closed" value="true" />
+      <created>1744750011430</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1744750011430</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ex045 completo + reestruturacao do codigo pelo chatgpt" />
     <MESSAGE value="resolucao alguns exercicios" />
     <MESSAGE value="refazendo ex056 e modificando algumas coisas" />
     <MESSAGE value="modifiquei nome variavel" />
@@ -583,6 +586,7 @@
     <MESSAGE value="alteração ex081" />
     <MESSAGE value="alteração ex083" />
     <MESSAGE value="realização ex084" />
-    <option name="LAST_COMMIT_MESSAGE" value="realização ex084" />
+    <MESSAGE value="adição resolução guanabara ex084" />
+    <option name="LAST_COMMIT_MESSAGE" value="adição resolução guanabara ex084" />
   </component>
 </project>
