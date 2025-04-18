@@ -1,6 +1,4 @@
-jogador = {'a': 9, 'b': 4, 'c': 6}
 
-print(sorted(jogador.items(), key=lambda x: x[1]))
 
 
 
