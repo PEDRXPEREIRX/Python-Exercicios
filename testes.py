@@ -1,4 +1,39 @@
 
+
+
+
+
+
+#aula019
+# filmes = {
+#     'titulo': 'Star Wars',
+#     'ano': 1977,
+#     'diretor': 'George Lucas'
+# }
+#
+# print(filmes.values()) #Mostra os valores. Ex.: Star Wars, 1977, George Lucas
+# print(filmes.keys()) #Mostra as chaves. Ex.: titutlo, ano, diretor
+# print(filmes.items()) #Mostra tanto as chaves quanto seus respectivos valores
+#
+# for k, v in filmes.items():
+#      print(f'O {k} é {v}')
+#
+# locadora = []
+# filme = {}
+#
+# for _ in range(3):
+#     filme['titulo'] = input('Título do filme: ')
+#     filme['ano'] = int(input('Ano do filme: '))
+#     filme['diretor'] = input('Diretor do filme: ')
+#     locadora.append(filme.copy())
+#
+# for i in range(len(locadora)):
+#     print(locadora[i])
+#     print()
+
+
+
+
 #aula018
 #
 # teste = []
