@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5856487b-ca82-4eea-be0b-37cb313b66ba" name="Changes" comment="adição resolução cursoemvideo">
+    <list default="true" id="5856487b-ca82-4eea-be0b-37cb313b66ba" name="Changes" comment="alteração código ex094">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex094.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex094.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testes.py" beforeDir="false" afterPath="$PROJECT_DIR$/testes.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -172,14 +172,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743033053711</updated>
-    </task>
-    <task id="LOCAL-00016" summary="condições aninhadas aula 012">
-      <option name="closed" value="true" />
-      <created>1743616881981</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1743616881981</updated>
     </task>
     <task id="LOCAL-00017" summary="criacao arquivos dos exercicios (036 ao 045)">
       <option name="closed" value="true" />
@@ -565,11 +557,18 @@
       <option name="project" value="LOCAL" />
       <updated>1745100076074</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="alteração código ex094">
+      <option name="closed" value="true" />
+      <created>1745102456767</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1745102456767</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="alteração ex076" />
     <MESSAGE value="realização ex078 e ex079" />
     <MESSAGE value="realização ex080 e ex081" />
     <MESSAGE value="realização ex082 e ex083" />
@@ -594,6 +593,7 @@
     <MESSAGE value="realização ex094" />
     <MESSAGE value="realização ex095" />
     <MESSAGE value="adição resolução cursoemvideo" />
-    <option name="LAST_COMMIT_MESSAGE" value="adição resolução cursoemvideo" />
+    <MESSAGE value="alteração código ex094" />
+    <option name="LAST_COMMIT_MESSAGE" value="alteração código ex094" />
   </component>
 </project>

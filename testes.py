@@ -1,4 +1,50 @@
-
+#aula020
+# def mensagem(msg):
+#     print('-'*30)
+#     print(msg)
+#     print('-'*30)
+#
+# mensagem(f'{"APRENDA PYTHON":^30}')
+# mensagem(f'{"CURSO EM VÍDEO":^30}')
+#
+# def soma(a, b):
+#     print(f'A = {a} ->  B = {b}')
+#     s = a + b
+#     print(f'A soma A + B = {s}')
+#
+# valor = int(input('Valor: '))
+# valor1 = int(input('Valor: '))
+#
+# soma(b = valor, a = valor1)
+# soma(4, 5)
+#
+# def contador(*num):
+#     print('Recebi os valores ', end='')
+#     for valor in num:
+#         print(f'[{valor}]', end=' ')
+#     print()
+#
+# contador(2, 1, 7)
+# contador(8, 0)
+# contador(4, 4, 7, 6, 2)
+#
+# def dobra(lst):
+#     for i in range(len(lst)):
+#         lst[i] *= 2
+#
+# valores = [7, 2, 5, 0, 4]
+# print(*valores)
+# dobra(valores)
+# print(*valores)
+#
+# def soma(* valores):
+#     s = 0
+#     for num in valores:
+#         s += num
+#     print(s)
+#
+# soma(4,5,9)
+# soma(1,2)
 
 
 
