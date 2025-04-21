@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5856487b-ca82-4eea-be0b-37cb313b66ba" name="Changes" comment="realização ex098">
-      <change afterPath="$PROJECT_DIR$/ex099.py" afterDir="false" />
+    <list default="true" id="5856487b-ca82-4eea-be0b-37cb313b66ba" name="Changes" comment="realização ex099">
+      <change afterPath="$PROJECT_DIR$/ex100.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -147,6 +147,7 @@
     "Python.ex097.executor": "Run",
     "Python.ex098.executor": "Run",
     "Python.ex099.executor": "Run",
+    "Python.ex100.executor": "Run",
     "Python.ex27.executor": "Run",
     "Python.testes.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -176,14 +177,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743033053711</updated>
-    </task>
-    <task id="LOCAL-00021" summary="realizacao ex042 e ex043">
-      <option name="closed" value="true" />
-      <created>1743626040518</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1743626040518</updated>
     </task>
     <task id="LOCAL-00022" summary="realizacao ex044">
       <option name="closed" value="true" />
@@ -569,11 +562,18 @@
       <option name="project" value="LOCAL" />
       <updated>1745245959095</updated>
     </task>
-    <option name="localTasksCounter" value="70" />
+    <task id="LOCAL-00070" summary="realização ex099">
+      <option name="closed" value="true" />
+      <created>1745247440429</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1745247440429</updated>
+    </task>
+    <option name="localTasksCounter" value="71" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="alteração ex079" />
     <MESSAGE value="alteração ex080" />
     <MESSAGE value="alteração ex081" />
     <MESSAGE value="alteração ex083" />
@@ -598,6 +598,7 @@
     <MESSAGE value="realização ex096" />
     <MESSAGE value="realização ex097" />
     <MESSAGE value="realização ex098" />
-    <option name="LAST_COMMIT_MESSAGE" value="realização ex098" />
+    <MESSAGE value="realização ex099" />
+    <option name="LAST_COMMIT_MESSAGE" value="realização ex099" />
   </component>
 </project>
