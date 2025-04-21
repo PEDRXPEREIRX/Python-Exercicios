@@ -19,6 +19,10 @@ def contador():
     inicio = int(input(f'{"Início:":<8}'))
     fim = int(input(f'{"Fim:":<8}'))
     passo = int(input(f'{"Passo:":<8}'))
+    if passo < 0:
+        passo *= -1
+    elif passo == 0:
+        passo = 1
     if inicio < fim:
         for i in range(inicio, fim+1, passo):
             print(f'{i}', end=' ')
