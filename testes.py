@@ -1,3 +1,7 @@
+
+
+
+
 #aula021
 # print(input.__doc__)
 # help(input)
@@ -89,6 +93,15 @@
 # else:
 #     print('É ímpar!')
 #
+#
+# def somar(a=0, b=0):
+#     soma = a + b
+#     return soma
+#
+# num1 = float(input('Número 01: '))
+# num2 = float(input('Número 02: '))
+# print(f'A soma dos dois números é {somar(num1, num2):.1f}')
+
 
 
 
