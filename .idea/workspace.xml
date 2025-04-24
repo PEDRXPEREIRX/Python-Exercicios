@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5856487b-ca82-4eea-be0b-37cb313b66ba" name="Changes" comment="adição docstring ex105" />
+    <list default="true" id="5856487b-ca82-4eea-be0b-37cb313b66ba" name="Changes" comment="adição docstrings ex105">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex106.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex106.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -150,6 +153,7 @@
     "Python.ex103.executor": "Run",
     "Python.ex104.executor": "Run",
     "Python.ex105.executor": "Run",
+    "Python.ex106.executor": "Run",
     "Python.ex27.executor": "Run",
     "Python.testes.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -179,14 +183,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743033053711</updated>
-    </task>
-    <task id="LOCAL-00035" summary="realizacao ex066 ao ex071">
-      <option name="closed" value="true" />
-      <created>1744159581603</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1744159581603</updated>
     </task>
     <task id="LOCAL-00036" summary="realizacao ex071">
       <option name="closed" value="true" />
@@ -572,11 +568,18 @@
       <option name="project" value="LOCAL" />
       <updated>1745512500546</updated>
     </task>
-    <option name="localTasksCounter" value="84" />
+    <task id="LOCAL-00084" summary="adição docstrings ex105">
+      <option name="closed" value="true" />
+      <created>1745512904833</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1745512904833</updated>
+    </task>
+    <option name="localTasksCounter" value="85" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="alteração código ex092" />
     <MESSAGE value="alteração código ex093" />
     <MESSAGE value="realização ex094" />
     <MESSAGE value="realização ex095" />
@@ -601,6 +604,7 @@
     <MESSAGE value="realização ex105" />
     <MESSAGE value="adição docstring ex106" />
     <MESSAGE value="adição docstring ex105" />
-    <option name="LAST_COMMIT_MESSAGE" value="adição docstring ex105" />
+    <MESSAGE value="adição docstrings ex105" />
+    <option name="LAST_COMMIT_MESSAGE" value="adição docstrings ex105" />
   </component>
 </project>
