@@ -1,4 +1,4 @@
-def ficha(nome ='', gols=''):
+def ficha(nome='', gols=''):
     if nome == '':
         n = '<desconhecido>'
     else:
@@ -7,9 +7,10 @@ def ficha(nome ='', gols=''):
         g = '0'
     else:
         g = int(gols)
-    print(f'O jogador {n} fez {g} gol(s).')
+
+    return f'O jogador {n} fez {g} gol(s).'
 
 
 name = input('Nome do jogador: ')
 gol = input('Número de gols: ')
-ficha(name, gol)
+print(ficha(name, gol))
