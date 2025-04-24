@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5856487b-ca82-4eea-be0b-37cb313b66ba" name="Changes" comment="realização ex106">
+    <list default="true" id="5856487b-ca82-4eea-be0b-37cb313b66ba" name="Changes" comment="Adição código Guanabara">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex101.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex101.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex102.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex102.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex103.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex103.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex104.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex104.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -185,14 +183,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743033053711</updated>
-    </task>
-    <task id="LOCAL-00037" summary="realizacao do ex072 ao ex077">
-      <option name="closed" value="true" />
-      <created>1744396123476</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1744396123476</updated>
     </task>
     <task id="LOCAL-00038" summary="alteração ex074">
       <option name="closed" value="true" />
@@ -578,11 +568,18 @@
       <option name="project" value="LOCAL" />
       <updated>1745515006441</updated>
     </task>
-    <option name="localTasksCounter" value="86" />
+    <task id="LOCAL-00086" summary="Adição código Guanabara">
+      <option name="closed" value="true" />
+      <created>1745516510847</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1745516510847</updated>
+    </task>
+    <option name="localTasksCounter" value="87" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="realização ex094" />
     <MESSAGE value="realização ex095" />
     <MESSAGE value="adição resolução cursoemvideo" />
     <MESSAGE value="alteração código ex094" />
@@ -607,6 +604,7 @@
     <MESSAGE value="adição docstring ex105" />
     <MESSAGE value="adição docstrings ex105" />
     <MESSAGE value="realização ex106" />
-    <option name="LAST_COMMIT_MESSAGE" value="realização ex106" />
+    <MESSAGE value="Adição código Guanabara" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adição código Guanabara" />
   </component>
 </project>
