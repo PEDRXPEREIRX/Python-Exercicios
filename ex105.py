@@ -26,3 +26,30 @@ def notas(entrada):
 
 nota = notas([7, 8.8, 6.9, 8, 5.8])
 print(nota)
+
+#Código Guanabara
+# def notas(*n, sit=False):
+#     """
+#     -> Função para analisar notas e situações de vários alunos.
+#     :param n: nota(s) dos alunos
+#     :param sit: valor opcional, indicando se deve ou não adicionar a situalção
+#     :return: dicionário com várias informações sobre as notas
+#     """
+#     r = {}
+#     r['total'] = len(n)
+#     r['maior'] = max(n)
+#     r['menor'] = min(n)
+#     r['media'] = round(sum(n) / len(n), 1)
+#     if sit:
+#         if r['media'] >= 7:
+#             r['situação'] = 'BOA'
+#         elif r['media'] >= 5:
+#             r['situação'] = 'RAZOÁVEL'
+#         else:
+#             r['situação'] = 'RUIM'
+#     return r
+#
+#
+# resp = notas(5.8,2.5,1.5, sit=True)
+# print(resp)
+# help(notas)
