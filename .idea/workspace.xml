@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5856487b-ca82-4eea-be0b-37cb313b66ba" name="Changes" comment="" />
+    <list default="true" id="5856487b-ca82-4eea-be0b-37cb313b66ba" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ex101.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex102.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex103.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex104.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex105.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex106.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -174,14 +182,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743033053711</updated>
-    </task>
-    <task id="LOCAL-00026" summary="resolucao alguns exercicios">
-      <option name="closed" value="true" />
-      <created>1743725763365</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1743725763365</updated>
     </task>
     <task id="LOCAL-00027" summary="refazendo ex056 e modificando algumas coisas">
       <option name="closed" value="true" />
@@ -567,11 +567,18 @@
       <option name="project" value="LOCAL" />
       <updated>1745281010145</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="...">
+      <option name="closed" value="true" />
+      <created>1745439241280</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1745439241280</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="adição resolução guanabara ex084" />
     <MESSAGE value="realização ex085 e ex086" />
     <MESSAGE value="adição código do Guanabara" />
     <MESSAGE value="realização ex087" />
@@ -596,6 +603,7 @@
     <MESSAGE value="alteração ex098" />
     <MESSAGE value="alteração ex099" />
     <MESSAGE value="aula 021" />
-    <option name="LAST_COMMIT_MESSAGE" value="aula 021" />
+    <MESSAGE value="..." />
+    <option name="LAST_COMMIT_MESSAGE" value="..." />
   </component>
 </project>
