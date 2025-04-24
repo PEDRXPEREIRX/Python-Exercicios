@@ -1,4 +1,8 @@
 def notas(entrada):
+    """
+    :param entrada: recebe os valores das notas em uma lista
+    :return: retorna o boletim contendo a quantidade de notas, a maior e menor nota, média e situação aprovado/reprovado
+    """
     boletim = {'quantidade': len(entrada), 'maior': 0, 'menor': 0, 'media': 0}
     soma = 0
     for i in entrada:

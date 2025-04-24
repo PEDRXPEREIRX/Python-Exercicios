@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5856487b-ca82-4eea-be0b-37cb313b66ba" name="Changes" comment="realização ex104">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="5856487b-ca82-4eea-be0b-37cb313b66ba" name="Changes" comment="realização ex105">
       <change beforePath="$PROJECT_DIR$/ex105.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex105.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -182,14 +181,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743033053711</updated>
-    </task>
-    <task id="LOCAL-00033" summary="realizacao ex063">
-      <option name="closed" value="true" />
-      <created>1744119519283</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1744119519283</updated>
     </task>
     <task id="LOCAL-00034" summary="realizacao ex 063, ex064 e ex065">
       <option name="closed" value="true" />
@@ -575,11 +566,18 @@
       <option name="project" value="LOCAL" />
       <updated>1745510197954</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <task id="LOCAL-00082" summary="realização ex105">
+      <option name="closed" value="true" />
+      <created>1745512405725</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1745512405725</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="realização ex090" />
     <MESSAGE value="realização ex091" />
     <MESSAGE value="realização ex092" />
     <MESSAGE value="alteração código ex092" />
@@ -604,6 +602,7 @@
     <MESSAGE value="alteração ex103" />
     <MESSAGE value="alteração ex103 - add gols.isdigit()" />
     <MESSAGE value="realização ex104" />
-    <option name="LAST_COMMIT_MESSAGE" value="realização ex104" />
+    <MESSAGE value="realização ex105" />
+    <option name="LAST_COMMIT_MESSAGE" value="realização ex105" />
   </component>
 </project>
