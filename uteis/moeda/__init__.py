@@ -12,3 +12,9 @@ def dobro(num):
 
 def metade(num):
     return num/2
+
+
+def moeda(num):
+    return f'R${num:.0f},00'
+
+
