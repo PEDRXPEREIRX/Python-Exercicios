@@ -1,9 +1,9 @@
-def aumentar(num, aumento ,cond=False):
+def aumentar(num, aumento, cond=False):
     inteiro = 1
     aumento = inteiro + (aumento / 100)
 
     if cond == True:
-        return f'R${num*aumento:.0f},00'
+        return f'R${num * aumento:.0f},00'
     else:
         return num * aumento
 
@@ -19,16 +19,16 @@ def diminuir(num, reducao, cond=False):
 
 def dobro(num, cond=False):
     if cond == True:
-        return f'R${num*2:.0f},00'
+        return f'R${num * 2:.0f},00'
     else:
-        return num*2
+        return num * 2
 
 
 def metade(num, cond=False):
     if cond == True:
-        return f'R${num/2:.0f},00'
+        return f'R${num / 2:.0f},00'
     else:
-        return num/2
+        return num / 2
 
 
 def moeda(num, cond=False):
@@ -36,9 +36,9 @@ def moeda(num, cond=False):
 
 
 def resumo(num, aumento, reducao):
-    print('-'*31)
+    print('-' * 31)
     print(f'{" RESUMO DO VALOR":^30}')
-    print('-'*31)
+    print('-' * 31)
     print(f'Preço analisado: {moeda(num):>14}')
     print(f'Dobro do preço: {dobro(num, True):>15}')
     print(f'Metade do preço: {metade(num, True):>14}')

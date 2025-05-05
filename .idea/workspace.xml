@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5856487b-ca82-4eea-be0b-37cb313b66ba" name="Changes" comment="realização ex109">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex110.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex110.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testes.py" beforeDir="false" afterPath="$PROJECT_DIR$/testes.py" afterDir="false" />
+    <list default="true" id="5856487b-ca82-4eea-be0b-37cb313b66ba" name="Changes" comment="realização ex110">
+      <change afterPath="$PROJECT_DIR$/uteis/utilidadesCeV/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uteis/utilidadesCeV/dado/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uteis/utilidadesCeV/moeda/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex111.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex111.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/uteis/moeda/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/uteis/moeda/__init__.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -161,6 +162,7 @@
     "Python.ex108.executor": "Run",
     "Python.ex109.executor": "Run",
     "Python.ex110.executor": "Run",
+    "Python.ex111.executor": "Run",
     "Python.ex27.executor": "Run",
     "Python.testes.executor": "Run",
     "Python.uteis.executor": "Run",
@@ -191,14 +193,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743033053711</updated>
-    </task>
-    <task id="LOCAL-00044" summary="alteração ex078">
-      <option name="closed" value="true" />
-      <created>1744407978490</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1744407978490</updated>
     </task>
     <task id="LOCAL-00045" summary="alteração ex079">
       <option name="closed" value="true" />
@@ -584,11 +578,18 @@
       <option name="project" value="LOCAL" />
       <updated>1746451629268</updated>
     </task>
-    <option name="localTasksCounter" value="93" />
+    <task id="LOCAL-00093" summary="realização ex110">
+      <option name="closed" value="true" />
+      <created>1746453281086</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1746453281086</updated>
+    </task>
+    <option name="localTasksCounter" value="94" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="realização ex096" />
     <MESSAGE value="realização ex097" />
     <MESSAGE value="realização ex098" />
     <MESSAGE value="realização ex099" />
@@ -613,6 +614,7 @@
     <MESSAGE value="realização ex107 + arquivos dos ex" />
     <MESSAGE value="realização ex108 e correção gramática ex107" />
     <MESSAGE value="realização ex109" />
-    <option name="LAST_COMMIT_MESSAGE" value="realização ex109" />
+    <MESSAGE value="realização ex110" />
+    <option name="LAST_COMMIT_MESSAGE" value="realização ex110" />
   </component>
 </project>
