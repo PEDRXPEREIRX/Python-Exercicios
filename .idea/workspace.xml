@@ -4,9 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5856487b-ca82-4eea-be0b-37cb313b66ba" name="Changes" comment="adição código Guanabara">
+    <list default="true" id="5856487b-ca82-4eea-be0b-37cb313b66ba" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ex107.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex108.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex109.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex110.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex111.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex112.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uteis/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uteis/datas/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uteis/moeda/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uteis/numeros/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uteis/strings/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex106.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex106.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testes.py" beforeDir="false" afterPath="$PROJECT_DIR$/testes.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -154,8 +165,10 @@
     "Python.ex104.executor": "Run",
     "Python.ex105.executor": "Run",
     "Python.ex106.executor": "Run",
+    "Python.ex107.executor": "Run",
     "Python.ex27.executor": "Run",
     "Python.testes.executor": "Run",
+    "Python.uteis.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
@@ -183,14 +196,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743033053711</updated>
-    </task>
-    <task id="LOCAL-00040" summary="alteração ex076">
-      <option name="closed" value="true" />
-      <created>1744398760712</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1744398760712</updated>
     </task>
     <task id="LOCAL-00041" summary="realização ex078 e ex079">
       <option name="closed" value="true" />
@@ -576,7 +581,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745537463834</updated>
     </task>
-    <option name="localTasksCounter" value="89" />
+    <task id="LOCAL-00089" summary="adição código Guanabara">
+      <option name="closed" value="true" />
+      <created>1745538875633</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1745538875633</updated>
+    </task>
+    <option name="localTasksCounter" value="90" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
