@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5856487b-ca82-4eea-be0b-37cb313b66ba" name="Changes" comment="realização ex107 + arquivos dos ex">
+    <list default="true" id="5856487b-ca82-4eea-be0b-37cb313b66ba" name="Changes" comment="realização ex108 e correção gramática ex107">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex109.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex109.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/uteis/moeda/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/uteis/moeda/__init__.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -154,6 +156,8 @@
     "Python.ex105.executor": "Run",
     "Python.ex106.executor": "Run",
     "Python.ex107.executor": "Run",
+    "Python.ex108.executor": "Run",
+    "Python.ex109.executor": "Run",
     "Python.ex27.executor": "Run",
     "Python.testes.executor": "Run",
     "Python.uteis.executor": "Run",
@@ -184,14 +188,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743033053711</updated>
-    </task>
-    <task id="LOCAL-00042" summary="realização ex080 e ex081">
-      <option name="closed" value="true" />
-      <created>1744405214244</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1744405214244</updated>
     </task>
     <task id="LOCAL-00043" summary="realização ex082 e ex083">
       <option name="closed" value="true" />
@@ -577,11 +573,18 @@
       <option name="project" value="LOCAL" />
       <updated>1746449806614</updated>
     </task>
-    <option name="localTasksCounter" value="91" />
+    <task id="LOCAL-00091" summary="realização ex108 e correção gramática ex107">
+      <option name="closed" value="true" />
+      <created>1746451081760</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1746451081760</updated>
+    </task>
+    <option name="localTasksCounter" value="92" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="alteração código ex094" />
     <MESSAGE value="aula 020" />
     <MESSAGE value="realização ex096" />
     <MESSAGE value="realização ex097" />
@@ -606,6 +609,7 @@
     <MESSAGE value="Adição código Guanabara" />
     <MESSAGE value="adição código Guanabara" />
     <MESSAGE value="realização ex107 + arquivos dos ex" />
-    <option name="LAST_COMMIT_MESSAGE" value="realização ex107 + arquivos dos ex" />
+    <MESSAGE value="realização ex108 e correção gramática ex107" />
+    <option name="LAST_COMMIT_MESSAGE" value="realização ex108 e correção gramática ex107" />
   </component>
 </project>
