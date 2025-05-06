@@ -1,8 +1,7 @@
-from uteis import moeda
+from uteis.utilidadesCeV import moeda, dado
 
-p = float(input('Informe o valor: R$'))
-moeda.resumo(p, 50, 25)
-
+p = dado.leiaDinheiro('Digite o valor: R$')
+moeda.resumo(p, 35, 22)
 
 
 

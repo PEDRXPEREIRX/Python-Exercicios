@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5856487b-ca82-4eea-be0b-37cb313b66ba" name="Changes" comment="Mini alterações de alguns códigos + código Guanabara ex107">
+    <list default="true" id="5856487b-ca82-4eea-be0b-37cb313b66ba" name="Changes" comment="adição código Guanabara pacote moeda">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/testes.py" beforeDir="false" afterPath="$PROJECT_DIR$/testes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uteis/moeda/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/uteis/moeda/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uteis/utilidadesCeV/dado/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/uteis/utilidadesCeV/dado/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uteis/utilidadesCeV/moeda/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/uteis/utilidadesCeV/moeda/__init__.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -192,14 +193,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743033053711</updated>
-    </task>
-    <task id="LOCAL-00048" summary="alteração ex083">
-      <option name="closed" value="true" />
-      <created>1744410846100</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1744410846100</updated>
     </task>
     <task id="LOCAL-00049" summary="realização ex084">
       <option name="closed" value="true" />
@@ -585,7 +578,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746563056006</updated>
     </task>
-    <option name="localTasksCounter" value="97" />
+    <task id="LOCAL-00097" summary="adição código Guanabara pacote moeda">
+      <option name="closed" value="true" />
+      <created>1746566457513</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1746566457513</updated>
+    </task>
+    <option name="localTasksCounter" value="98" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -600,7 +601,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="realização ex100" />
     <MESSAGE value="alteração ex098" />
     <MESSAGE value="alteração ex099" />
     <MESSAGE value="aula 021" />
@@ -625,6 +625,7 @@
     <MESSAGE value="realização ex111" />
     <MESSAGE value="realização ex112" />
     <MESSAGE value="Mini alterações de alguns códigos + código Guanabara ex107" />
-    <option name="LAST_COMMIT_MESSAGE" value="Mini alterações de alguns códigos + código Guanabara ex107" />
+    <MESSAGE value="adição código Guanabara pacote moeda" />
+    <option name="LAST_COMMIT_MESSAGE" value="adição código Guanabara pacote moeda" />
   </component>
 </project>
