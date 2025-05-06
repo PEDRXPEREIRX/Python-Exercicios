@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5856487b-ca82-4eea-be0b-37cb313b66ba" name="Changes" comment="realização ex112">
+    <list default="true" id="5856487b-ca82-4eea-be0b-37cb313b66ba" name="Changes" comment="Mini alterações de alguns códigos + código Guanabara ex107">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex107.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex107.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex108.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex108.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex109.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex109.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uteis/utilidadesCeV/dado/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/uteis/utilidadesCeV/dado/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testes.py" beforeDir="false" afterPath="$PROJECT_DIR$/testes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uteis/moeda/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/uteis/moeda/__init__.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -194,14 +192,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743033053711</updated>
-    </task>
-    <task id="LOCAL-00047" summary="alteração ex081">
-      <option name="closed" value="true" />
-      <created>1744409957183</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1744409957183</updated>
     </task>
     <task id="LOCAL-00048" summary="alteração ex083">
       <option name="closed" value="true" />
@@ -587,11 +577,29 @@
       <option name="project" value="LOCAL" />
       <updated>1746455052648</updated>
     </task>
-    <option name="localTasksCounter" value="96" />
+    <task id="LOCAL-00096" summary="Mini alterações de alguns códigos + código Guanabara ex107">
+      <option name="closed" value="true" />
+      <created>1746563056006</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1746563056006</updated>
+    </task>
+    <option name="localTasksCounter" value="97" />
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="realização ex099" />
     <MESSAGE value="realização ex100" />
     <MESSAGE value="alteração ex098" />
     <MESSAGE value="alteração ex099" />
@@ -616,6 +624,7 @@
     <MESSAGE value="realização ex110" />
     <MESSAGE value="realização ex111" />
     <MESSAGE value="realização ex112" />
-    <option name="LAST_COMMIT_MESSAGE" value="realização ex112" />
+    <MESSAGE value="Mini alterações de alguns códigos + código Guanabara ex107" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mini alterações de alguns códigos + código Guanabara ex107" />
   </component>
 </project>
