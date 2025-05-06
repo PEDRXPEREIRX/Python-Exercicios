@@ -1,4 +1,7 @@
+from uteis import moeda
 
+p = float(input('Preço: R$'))
+print(f'Diminuindo 13% de R${p} é R${moeda.diminuir(p, 13)}')
 
 #aula022
 # from uteis import numeros

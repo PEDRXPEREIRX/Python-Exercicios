@@ -4,4 +4,4 @@ def leiaDinheiro(msg):
         try:
             return float(entrada.replace(",", "."))
         except ValueError:
-            print(f'\033[1;31mERRO: "{msg} é um valor inválido!"\033[m')
+            print(f'\033[1;31mERRO: "{entrada}" é um valor inválido!\033[m')
