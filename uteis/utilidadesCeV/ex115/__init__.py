@@ -5,7 +5,7 @@ def menu():
     print('MENU PRINCIPAL'.center(40))
     print('-'*40)
     print('1 - Cadastrar nova pessoa')
-    print('2 - Listas pessoas cadastradas')
+    print('2 - Listar pessoas cadastradas')
     print('3 - Deletar uma pessoa cadastrada')
     print('0 - Sair')
     print('-'*40)
@@ -53,7 +53,7 @@ def listar_pessoas():
                     partes = linha.strip().split(';')
                     if len(partes) == 2:
                         nome, idade = partes
-                        print(f'{nome:<30}{idade:>8} anos')
+                        print(f'{nome:<30}{idade:>5} anos')
                     else:
                         print(f'Linha ignorada por estar mal formatada.')
     except FileNotFoundError:
