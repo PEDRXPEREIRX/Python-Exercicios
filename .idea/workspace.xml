@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5856487b-ca82-4eea-be0b-37cb313b66ba" name="Changes" comment="substituição vírgula e ponto ex113">
-      <change beforePath="$PROJECT_DIR$/ex113.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex113.py" afterDir="false" />
+    <list default="true" id="5856487b-ca82-4eea-be0b-37cb313b66ba" name="Changes" comment="adição código cev">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex114.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex114.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -161,6 +162,7 @@
     "Python.ex111.executor": "Run",
     "Python.ex112.executor": "Run",
     "Python.ex113.executor": "Run",
+    "Python.ex114.executor": "Run",
     "Python.ex27.executor": "Run",
     "Python.testes.executor": "Run",
     "Python.uteis.executor": "Run",
@@ -191,14 +193,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743033053711</updated>
-    </task>
-    <task id="LOCAL-00053" summary="realização ex087">
-      <option name="closed" value="true" />
-      <created>1744831426709</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1744831426709</updated>
     </task>
     <task id="LOCAL-00054" summary="realização ex088">
       <option name="closed" value="true" />
@@ -584,7 +578,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747056018248</updated>
     </task>
-    <option name="localTasksCounter" value="102" />
+    <task id="LOCAL-00102" summary="adição código cev">
+      <option name="closed" value="true" />
+      <created>1747056648472</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1747056648472</updated>
+    </task>
+    <option name="localTasksCounter" value="103" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -599,7 +601,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="realização ex101 e criação arquivos dos outros ex" />
     <MESSAGE value="realização ex102" />
     <MESSAGE value="realização ex103" />
     <MESSAGE value="alteração ex103" />
@@ -624,6 +625,7 @@
     <MESSAGE value="aula 23 + criação arquivos ex" />
     <MESSAGE value="realização ex113" />
     <MESSAGE value="substituição vírgula e ponto ex113" />
-    <option name="LAST_COMMIT_MESSAGE" value="substituição vírgula e ponto ex113" />
+    <MESSAGE value="adição código cev" />
+    <option name="LAST_COMMIT_MESSAGE" value="adição código cev" />
   </component>
 </project>
