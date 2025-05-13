@@ -3,7 +3,7 @@
 # from uteis.utilidadesCeV import ex115
 #
 # ex115.main()
-
+from uteis.utilidadesCeV.ex115 import cadastrar_pessoa
 #Código Guanabara
 
 from uteis.utilidadesCeV.ex115.lib.interface import *
@@ -21,7 +21,10 @@ while True:
         case 1:
             lerArquivo(arq)
         case 2:
-            cabecalho('Opção 2')
+            cabecalho('NOVO CADASTRO')
+            nome = input('Nome: ')
+            idade = leiaInt('Idade: ')
+            cadastrar(arq, nome, idade)
         case 3:
             cabecalho('Saindo do sistema ... Até logo')
             sleep(1)

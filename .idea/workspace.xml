@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5856487b-ca82-4eea-be0b-37cb313b66ba" name="Changes" comment="resolução ex115a CursoemVideo">
-      <change afterPath="$PROJECT_DIR$/uteis/utilidadesCeV/ex115/lib/arquivo/__init__.py" afterDir="false" />
+    <list default="true" id="5856487b-ca82-4eea-be0b-37cb313b66ba" name="Changes" comment="resolução ex115b CursoemVideo">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ex115.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex115.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uteis/utilidadesCeV/ex115/lib/arquivo/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/uteis/utilidadesCeV/ex115/lib/arquivo/__init__.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -179,6 +179,10 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\pedro\PycharmProjects\PythonExercicios" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\pedro\PycharmProjects\PythonExercicios\uteis\utilidadesCeV\ex115" />
+      <recent name="C:\Users\pedro\PycharmProjects\PythonExercicios\uteis\utilidadesCeV\ex115\lib" />
+    </key>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -195,14 +199,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743033053711</updated>
-    </task>
-    <task id="LOCAL-00057" summary="realização ex090">
-      <option name="closed" value="true" />
-      <created>1744935117707</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1744935117707</updated>
     </task>
     <task id="LOCAL-00058" summary="realização ex091">
       <option name="closed" value="true" />
@@ -588,7 +584,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747092510525</updated>
     </task>
-    <option name="localTasksCounter" value="106" />
+    <task id="LOCAL-00106" summary="resolução ex115b CursoemVideo">
+      <option name="closed" value="true" />
+      <created>1747096686554</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1747096686554</updated>
+    </task>
+    <option name="localTasksCounter" value="107" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -603,7 +607,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="alteração ex103 - add gols.isdigit()" />
     <MESSAGE value="realização ex104" />
     <MESSAGE value="realização ex105" />
     <MESSAGE value="adição docstring ex106" />
@@ -628,6 +631,7 @@
     <MESSAGE value="resolução ex114 + código cev" />
     <MESSAGE value="resolução ex115a" />
     <MESSAGE value="resolução ex115a CursoemVideo" />
-    <option name="LAST_COMMIT_MESSAGE" value="resolução ex115a CursoemVideo" />
+    <MESSAGE value="resolução ex115b CursoemVideo" />
+    <option name="LAST_COMMIT_MESSAGE" value="resolução ex115b CursoemVideo" />
   </component>
 </project>
