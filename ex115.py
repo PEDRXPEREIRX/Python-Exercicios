@@ -7,13 +7,19 @@
 #Código Guanabara
 
 from uteis.utilidadesCeV.ex115.lib.interface import *
+from uteis.utilidadesCeV.ex115.lib.arquivo import *
 from time import sleep
+
+arq = 'cursoemvideo.txt'
+
+if not arquivoExiste(arq):
+    criarArquivo(arq)
 
 while True:
     resposta = menu(['Listar Cadastros', 'Cadastrar', 'Sair do Sistema'])
     match resposta:
         case 1:
-            cabecalho('Opção 1')
+            lerArquivo(arq)
         case 2:
             cabecalho('Opção 2')
         case 3:
